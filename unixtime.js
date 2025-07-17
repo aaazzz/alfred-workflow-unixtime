@@ -35,7 +35,7 @@ const formats = [
   { label: "Custom (YYYY-MM-DD HH:MM:SS)", value: custom },
   { label: "ISO", value: iso },
   { label: "ISO (no T)", value: isoNoT },
-  { label: "Locale (環境依存)", value: locale },
+  { label: "Locale dependent", value: locale },
   { label: "Time Only", value: timeOnly },
   { label: "Date Only", value: dateOnly },
   { label: "UTC String", value: utcString },
